@@ -1,8 +1,7 @@
 
 # Count Converter
 
-
-![Screenshot 2023-09-19 001027](https://github.com/sahil1518/Count-Converter.git)
+![converter.png](https://github.com/sahil1518/Count-Converter.git)
 
 > A simple Textile Count Converter built using Vite, React, and React-DOM.
 
